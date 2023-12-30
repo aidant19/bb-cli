@@ -1,3 +1,5 @@
+// With thanks to fetchbot on discord for the code
+
 BBPlugin.register('bb-cli', {
     title: 'Blockbench CLI',
     author: 'aiTan',

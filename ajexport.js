@@ -1,3 +1,5 @@
+// With thanks to elenterius on discord for troubleshooting ideas
+
 const consoleLogJson = (args) => {
     console.log(JSON.stringify(args));
 }
